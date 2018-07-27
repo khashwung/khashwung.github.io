@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "开始"
-author: "khashwung"
+author: ""
 categories: journal
 tags: [随笔]
 ---
